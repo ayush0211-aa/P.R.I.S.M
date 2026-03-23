@@ -39,11 +39,22 @@ Directory Structure:
 Plaintext
 prism-marketplace/
 │
+
 ├── app.py                 # Main Streamlit application and UI layout
+
+
 ├── model.py               # Core ML logic (Search embeddings & Review classifier)
+
+
 ├── data_prep.py           # Script for cleaning and formatting the initial dataset
+
+
 ├── products.csv           # Static database of products, prices, and sample reviews
+
+
 ├── requirements.txt       # Python dependencies
+
+
 └── README.md              # Project documentation
 💻 Local Setup & Installation
 
